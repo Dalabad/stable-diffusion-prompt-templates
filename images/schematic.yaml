@@ -1,0 +1,19 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 70
+height: 512
+n_iter: 1
+prompt: 23rd century scientific schematics for a computer, blueprint, hyperdetailed
+  vector technical documents, callouts, archviz, legend, patent registry
+sampler_name: DDIM
+seed: 3581991375
+target: txt2img
+toggles:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 704

@@ -1,0 +1,23 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 70
+height: 512
+n_iter: 1
+prompt: magestic mountains, birds in the sky, waterfall close shot 35 mm, realism,
+  octane render, 8 k, exploration, cinematic, trending on artstation, 35 mm camera,
+  unreal engine, hyper detailed, photo - realistic maximum detail, volumetric light,
+  moody cinematic epic concept art, realistic matte painting, hyper photorealistic,
+  epic, trending on artstation, movie concept art, cinematic composition, ultra -
+  detailed, realistic,
+sampler_name: DDIM
+seed: 2620755462
+target: txt2img
+toggles:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 704

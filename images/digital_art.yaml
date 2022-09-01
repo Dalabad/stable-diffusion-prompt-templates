@@ -1,0 +1,20 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 70
+height: 704
+n_iter: 10
+prompt: wakandan warrior wearing moonknight mcu style armor, ultra realistic, concept
+  art, intricate details, eerie, horror, highly detailed, photorealistic, octane render,  8
+  k, unreal engine, sharp focus, volumetric lighting unreal engine. art by artgerm
+  and greg rutkowski and alphonse mucha
+sampler_name: k_euler_a
+seed: 1666326530
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 512

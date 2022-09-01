@@ -1,0 +1,19 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 70
+height: 512
+n_iter: 12
+prompt: rabbit running over a field, wildlife photography, photograph, high quality,
+  wildlife, f 1.8, soft focus, 8k, national geographic, award - winning photograph
+  by nick nichols
+sampler_name: DDIM
+seed: 1133138931
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 512

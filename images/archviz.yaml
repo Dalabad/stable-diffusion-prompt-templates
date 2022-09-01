@@ -1,0 +1,20 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 70
+height: 512
+n_iter: 1
+prompt: modern living room, few plants, decoration, by James McDonald and Joarc Architects,
+  home, interior, octane render, deviantart, greg rutkowski, cinematic, key art, hyperrealism,
+  sun light, sunrays, canon eos c 3 0 0, ƒ 1. 8, 3 5 mm, 8 k, medium - format print
+sampler_name: DDIM
+seed: 3841338856
+target: txt2img
+toggles:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 704

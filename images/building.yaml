@@ -1,0 +1,20 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 70
+height: 512
+n_iter: 1
+prompt: American community house,  shot 35 mm, realism, octane render, 8k, trending
+  on artstation, 35 mm camera, unreal engine, hyper detailed, photo - realistic maximum
+  detail, volumetric light, realistic matte painting, hyper photorealistic, trending
+  on artstation, ultra - detailed, realistic
+sampler_name: DDIM
+seed: 3390482655
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 512

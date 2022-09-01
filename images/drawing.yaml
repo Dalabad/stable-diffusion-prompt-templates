@@ -1,0 +1,19 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 50
+height: 512
+n_iter: 8
+prompt: cute puppy pushing shopping cart, cute, funny, centered, award winning watercolor
+  pen illustration, detailed, disney, isometric illustration, drawing, by Stephen
+  Hillenburg, Matt Groening, Albert Uderzo
+sampler_name: DDIM
+seed: 1966975117
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 512

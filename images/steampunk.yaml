@@ -1,0 +1,21 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 80
+height: 512
+n_iter: 1
+prompt: steampunk cybernetic biomechanical horse, light brown background, 3d model,
+  very coherent symmetrical artwork, unreal engine realistic render, 8 k, micro detail,
+  intricate, elegant, highly detailed, centered, digital painting, artstation, smooth,
+  sharp focus, illustration, artgerm, tomasz alen kopera, wlop
+sampler_name: DDIM
+seed: 262795561
+target: txt2img
+toggles:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 704

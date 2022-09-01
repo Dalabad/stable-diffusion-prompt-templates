@@ -1,0 +1,21 @@
+batch_size: 1
+cfg_scale: 7.5
+ddim_eta: 0
+ddim_steps: 70
+height: 704
+n_iter: 1
+prompt: 'racoon in a police uniform, animal wearing a uniform, anthro, very cute kid''s
+  film character, disney pixar zootopia character concept artwork, 3d concept, detailed
+  fur, high detail iconic character for upcoming film, trending on artstation, character
+  design, 3 d artistic render, highly detailed, octane, blender, cartoon, shadows,
+  lighting '
+sampler_name: DDIM
+seed: 1556409765
+target: txt2img
+toggles:
+- 1
+- 2
+- 3
+- 4
+- 5
+width: 512
