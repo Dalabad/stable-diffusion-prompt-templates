@@ -1,16 +1,21 @@
 # Prompt Templates for Stable Diffusion
 
+## Disclaimer
+Do these prompts only work with Stable Diffusion? No, they can also be used for [Midjourney](https://www.midjourney.com/), [DALL·E 2](https://openai.com/dall-e-2/) and other similar projects. The results will be different from the ones shown here, but the overall end results should be in the same ballpark.
+
 ## Purpose of this document
 The following prompts are supposed to give an easier entry into getting good results in using [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Simple prompts can already lead to good outcomes, but sometimes it's in the details on what makes an image believable. The following prompts are mostly collected from different discord servers, websites, fabricated and then modified to match the _best_ results. Some sources for good prompts are [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) or [lexica.art](https://lexica.art/). 
 
-# Setup
+## Setup
 There are several good instructions on how to set up stable diffusion either at [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion), [r/StableDiffusion/wiki/guide/](https://www.reddit.com/r/StableDiffusion/wiki/guide/) or [rentry.org/GUItard](https://rentry.org/GUItard).
 
-# Usage
+## Usage
 Copy the prompt from the category you want to start with and replace the `{{Prompt}}` part, or any other part in `{{brackets}}` with your personal prompt command. Then feel free to update the prompt to match your vision. All provided prompts can be used both for **txt2img** and **img2img**.
 
-# Contribute
+## Contribute
 This is a public document and is by far not perfect or complete. If you want to contribute by adding a new category or improving an existing prompt, simply open a pull request with your changes, and we will include those as well. If you update an existing category, please ensure that the provided example image has been generated using the exact prompt. To ensure the integrity between the prompt and the image, please also provide the sample information file.
+
+## Prompts
 
 | Category              | Prompt                                                                                                                                                                                                                                                                                                                                                                                                                          | Example                                                                                                 |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
