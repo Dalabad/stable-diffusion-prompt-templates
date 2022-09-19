@@ -7,7 +7,7 @@ Do these prompts only work with Stable Diffusion? No, they can also be used for 
 The following prompts are supposed to give an easier entry into getting good results in using [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Simple prompts can already lead to good outcomes, but sometimes it's in the details on what makes an image believable. The following prompts are mostly collected from different discord servers, websites, fabricated and then modified to match the _best_ results. Some sources for good prompts are [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) or [lexica.art](https://lexica.art/). 
 
 ## Setup
-There are several good instructions on how to set up stable diffusion either at [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion), [r/StableDiffusion/wiki/guide/](https://www.reddit.com/r/StableDiffusion/wiki/guide/) or [rentry.org/GUItard](https://rentry.org/GUItard).
+There are several good instructions on how to set up stable diffusion either at [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion), [r/StableDiffusion/wiki/guide/](https://www.reddit.com/r/StableDiffusion/wiki/guide/) or [rentry.org/voldy](https://rentry.org/voldy).
 
 ## Usage
 Copy the prompt from the category you want to start with and replace the `{{Prompt}}` part, or any other part in `{{brackets}}` with your personal prompt command. Then feel free to update the prompt to match your vision. All provided prompts can be used both for **txt2img** and **img2img**.
