@@ -1,10 +1,10 @@
 # Prompt Templates for Stable Diffusion
 
 ## Disclaimer
-Do these prompts only work with Stable Diffusion? No, they can also be used for [Midjourney](https://www.midjourney.com/), [DALL·E 2](https://openai.com/dall-e-2/) and other similar projects. The results will be different from the ones shown here, but the overall end results should be in the same ballpark.
+Do these prompts only work with Stable Diffusion? No, they can also be used for [Midjourney](https://www.midjourney.com/), [DALL·E 2](https://openai.com/dall-e-2/) and other similar projects. In general the results will always depend on the chosen sampling method, dimensions of the image, chosen model and many other factors. The results will be different from the ones shown here, but the overall end results should be in the same ballpark.
 
 ## Purpose of this document
-The following prompts are supposed to give an easier entry into getting good results in using [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Simple prompts can already lead to good outcomes, but sometimes it's in the details on what makes an image believable. The following prompts are mostly collected from different discord servers, websites, fabricated and then modified to match the _best_ results. Some sources for good prompts are [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/) or [lexica.art](https://lexica.art/). 
+The following prompts are supposed to give an easier entry into getting good results in using [Stable Diffusion](https://github.com/CompVis/stable-diffusion). Simple prompts can already lead to good outcomes, but sometimes it's in the details on what makes an image believable. The following prompts are mostly collected from different discord servers, websites, fabricated and then modified to match the _best_ results. Some sources for good prompts are [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/), [lexica.art](https://lexica.art/) or [prompthero.com](https://prompthero.com/). 
 
 ## Setup
 There are several good instructions on how to set up stable diffusion either at [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion), [r/StableDiffusion/wiki/guide/](https://www.reddit.com/r/StableDiffusion/wiki/guide/) or [rentry.org/GUItard](https://rentry.org/GUItard).
