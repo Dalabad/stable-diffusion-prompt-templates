@@ -1,0 +1,2 @@
+futuristic soldier, space, character sheet, concept design, contrast, style by kim jung gi, zabrocki, karlkka, jayison devadas, trending on artstation, 8k, ultra wide angle, pincushion lens effect
+Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2363945503, Size: 768x512

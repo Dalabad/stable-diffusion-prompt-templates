@@ -8,7 +8,7 @@ prompt: 'racoon in a police uniform, animal wearing a uniform, anthro, very cute
   film character, disney pixar zootopia character concept artwork, 3d concept, detailed
   fur, high detail iconic character for upcoming film, trending on artstation, character
   design, 3 d artistic render, highly detailed, octane, blender, cartoon, shadows,
-  lighting '
+  lighting'
 sampler_name: DDIM
 seed: 1556409765
 target: txt2img
