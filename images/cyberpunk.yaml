@@ -4,10 +4,13 @@ ddim_eta: 0
 ddim_steps: 70
 height: 512
 n_iter: 1
-prompt: assassin, cyberpunk, cyberpsycho, photorealistic, ultra detailed, harsh neon
-  lights, octane, bokeh, cyber, cyberpunk city, feature, 8k
+prompt: portrait of a female cyberpunk android, cyberpunk, in heavy raining futuristic 
+  tokyo rooftop cyberpunk night, sci-fi, fantasy, intricate, very very beautiful,
+  elegant, neon light, highly detailed, digital painting, artstation, concept art, 
+  soft light, hdri, smooth, sharp focus, illustration, art by tian zi and craig 
+  mullins and wlop and alphonse mucha
 sampler_name: DDIM
-seed: 666262964
+seed: 1556409771
 target: txt2img
 toggles:
 - 0

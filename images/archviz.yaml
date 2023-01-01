@@ -1,7 +1,7 @@
 batch_size: 1
 cfg_scale: 7.5
 ddim_eta: 0
-ddim_steps: 70
+ddim_steps: 100
 height: 512
 n_iter: 1
 prompt: modern living room, few plants, decoration, by James McDonald and Joarc Architects,

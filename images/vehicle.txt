@@ -1,0 +1,2 @@
+  photograph of a Chevrolet Camaro, photorealistic, vivid, sharp focus, reflection, refraction, sunrays, very detailed, intricate, intense cinematic composition
+  Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 2696925887, Size: 768x512
