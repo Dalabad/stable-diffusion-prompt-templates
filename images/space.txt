@@ -1,0 +1,2 @@
+  epic space, planets, stars, by Andrew McCarthy, Navaneeth Unnikrishnan, Manuel Dietrich, photo realistic, 8 k, cinematic lighting, hd, atmospheric, hyperdetailed, trending on artstation, deviantart, photography, glow effect
+  Steps: 20, Sampler: Euler a, CFG scale: 7, Seed: 139900593, Size: 768x512

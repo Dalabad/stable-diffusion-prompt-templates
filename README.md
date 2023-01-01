@@ -21,8 +21,6 @@ The outcome will differ depending on the used model. While there are already dif
 * [Arcane Diffusion](https://huggingface.co/nitrosocke/Arcane-Diffusion)
 * [Redshift Diffusion](https://huggingface.co/nitrosocke/redshift-diffusion)
 
-// TODO: Online vs offline
-
 |                         | DDIM                                                                                        | Euler a                                                                                         |
 |-------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
 | *Stable Diffusion v1*   | [![](images/comparison/archviz_ddim_sd_v1.png)](images/comparison/archviz_ddim_sd_v1.png)   | [![](images/comparison/archviz_eulera_sd_v1.png)](images/comparison/archviz_eulera_sd_v1.png)   |
