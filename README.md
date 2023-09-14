@@ -14,12 +14,13 @@ There are several good instructions on how to set up stable diffusion either at 
 ## Usage
 Copy the prompt from the category you want to start with and replace the `{{Prompt}}` part, or any other part in `{{brackets}}` with your personal prompt command. Then feel free to update the prompt to match your vision. All provided prompts can be used both for **txt2img** and **img2img**.
 
-The outcome will differ depending on the used model. While there are already differences between stable diffusion v1, v1.5 or v2, there are other models which have been trained on more specific sets of images to resemble certain styles (comic, photograph, specific video games, ...) or improve a certain astetic. Most of these alternative models can also be found on [huggingface.co](https://huggingface.co/) and popular examples would be
+The outcome will differ depending on the used model. While there are already differences between stable diffusion v1, v1.5, v2 or SDXL, there are other models which have been trained on more specific sets of images to resemble certain styles (comic, photograph, specific video games, ...) or improve a certain astetic. Most of these alternative models can be found on [huggingface.co](https://huggingface.co/) or [civitai.com](https://civitai.com/). Popular examples would be
 
 * [Openjourney v2](https://huggingface.co/prompthero/openjourney-v2)
-* [Waifu Diffusion](https://huggingface.co/hakurei/waifu-diffusion)
 * [Arcane Diffusion](https://huggingface.co/nitrosocke/Arcane-Diffusion)
-* [Redshift Diffusion](https://huggingface.co/nitrosocke/redshift-diffusion)
+* [epiCRealism](https://civitai.com/models/25694/epicrealism)
+* [Realistic Vision](https://civitai.com/models/4201/realistic-vision-v51)
+* [DreamShaper](https://civitai.com/models/4384/dreamshaper)
 
 |                         | DDIM                                                                                        | Euler a                                                                                         |
 |-------------------------|---------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
