@@ -1,19 +1,13 @@
 batch_size: 1
-cfg_scale: 7.5
-ddim_eta: 0
-ddim_steps: 70
-height: 512
-n_iter: 12
-prompt: rabbit running over a field, wildlife photography, photograph, high quality,
-  wildlife, f 1.8, soft focus, 8k, national geographic, award - winning photograph
-  by nick nichols
-sampler_name: DDIM
-seed: 1133138931
-target: txt2img
-toggles:
-- 1
-- 2
-- 3
-- 4
-- 5
-width: 512
+steps: 4
+sampler_name: Euler
+seed: 907434215503093
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae.sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn.safetensors
+  clip_name2: clip_l.safetensors
+prompt: rabbit running over a field, wildlife photography, photograph, high quality, wildlife, f 1.8, soft focus, 8k, national geographic, award - winning photograph by nick nichols

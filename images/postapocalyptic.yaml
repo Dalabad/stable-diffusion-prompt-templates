@@ -1,20 +1,13 @@
 batch_size: 1
-cfg_scale: 7.5
-ddim_eta: 0
-ddim_steps: 70
-height: 512
-n_iter: 1
-prompt: white house, postapocalyptic, overgrown with plant life and ivy, fog, animals,
-  birds, deer, bunny, artgerm, yoshitaka amano, gothic interior, 8k, octane render,
-  unreal engine
-sampler_name: DDIM
-seed: 3282173003
-target: txt2img
-toggles:
-- 0
-- 1
-- 2
-- 3
-- 4
-- 5
-width: 704
+steps: 4
+sampler_name: Euler
+seed: 566616260221311
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae.sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn.safetensors
+  clip_name2: clip_l.safetensors
+prompt: the white house, government building, damaged building, postapocalyptic, overgrown with plant life and ivy, fog, animals, birds, deer, bunny, artgerm, yoshitaka amano, gothic interior, 8k, octane render, unreal engine
