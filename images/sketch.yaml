@@ -1,0 +1,13 @@
+batch_size: 1
+steps: 4
+sampler_name: Euler
+seed: 83974269872978
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae.sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn.safetensors
+  clip_name2: clip_l.safetensors
+prompt: line art drawing metropole city, sketch, drawing, detailed, pencil, black and white by Adonna Khare, Paul Cadden, Pierre-Yves Riveau, professional, sleek, modern, minimalist, graphic, line art, vector graphics

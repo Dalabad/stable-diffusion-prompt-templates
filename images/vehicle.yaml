@@ -1,0 +1,13 @@
+batch_size: 1
+steps: 4
+sampler_name: Euler
+seed: 330423786502242
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae.sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn.safetensors
+  clip_name2: clip_l.safetensors
+prompt: cinematic photo, a picture of a ford mustang, modern car, red color, perfectly centered, telephoto lens, bokeh, extremely detailed car, extremely detailed background, reflections, raw photo, photorealism, 35mm photograph, film, professional, 4k, highly detailed

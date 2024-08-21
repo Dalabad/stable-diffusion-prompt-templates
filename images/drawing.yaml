@@ -1,0 +1,13 @@
+batch_size: 1
+steps: 4
+sampler_name: Euler
+seed: 945618566591109
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae,sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn,safetensors
+  clip_name2: clip_l,safetensors
+prompt: cinematic photo anthro monster drawing, cute monster drawing human on canvas, ((drawn by a kid)), child's drawing, ((unfinished drawing)), canvas, crayons laying on the desk, 35mm photograph, film, bokeh, professional, 4k, highly detailed

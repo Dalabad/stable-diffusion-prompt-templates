@@ -1,0 +1,13 @@
+batch_size: 1
+steps: 4
+sampler_name: Euler
+seed: 260524526257562
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae.sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn.safetensors
+  clip_name2: clip_l.safetensors
+prompt: portrait photo, old farm worker, 19th century, photograph, highly detailed face, depth of field, moody light, golden hour, style by Dan Winters, Russell James, Steve McCurry, centered, extremely detailed, Nikon D850, award winning photography

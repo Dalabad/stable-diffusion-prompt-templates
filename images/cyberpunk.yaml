@@ -1,0 +1,13 @@
+batch_size: 1
+steps: 4
+sampler_name: Euler
+seed: 699434391116615
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae.sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn.safetensors
+  clip_name2: clip_l.safetensors
+prompt: cinematic photo portrait of a female cyberpunk android, cyberpunk, in heavy raining futuristic tokyo, rooftop, cyberpunk night, sci-fi, fantasy, intricate, extremely beautiful,  elegant, neon light, highly detailed, digital painting, artstation, concept art,  soft light, hdri, smooth, sharp focus, illustration, art by tian zi and craig  mullins and wlop and alphonse mucha . 35mm photograph, film, bokeh, professional, 4k, highly detailed

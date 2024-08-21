@@ -1,0 +1,14 @@
+batch_size: 1
+steps: 4
+sampler_name: Euler
+seed: 403372701630865
+size:
+  width: 512
+  height: 768
+model: flux1-schnell
+vae: ae.sft
+clips:
+  clip_name1: f5xxl_fp8_e4m3fn.safetensors
+  clip_name2: clip_l.safetensors
+prompt: epic space, planets, stars, by Andrew McCarthy, Navaneeth Unnikrishnan, Manuel Dietrich, photo realistic, 8 k, cinematic lighting, hd, atmospheric, hyperdetailed, trending on artstation, deviantart, photography, glow effect
+  
